@@ -1,0 +1,22 @@
+{
+    "foods": [
+        {
+            "food_name": "rice",
+            "serving_qty": 1,
+            "serving_unit": "cup",
+            "calories": 200,
+            "protein": 4,
+            "carbohydrates": 45,
+            "fat": 0.5
+        },
+        {
+            "food_name": "egg",
+            "serving_qty": 2,
+            "serving_unit": "large",
+            "calories": 140,
+            "protein": 12,
+            "carbohydrates": 1,
+            "fat": 10
+        }
+    ]
+}

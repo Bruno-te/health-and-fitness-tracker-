@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Barbell Bench Press",
+        "target": "chest",
+        "equipment": "barbell",
+        "instructions": "Lie on a bench, grip the bar, and press upward."
+    },
+    {
+        "name": "Incline Dumbbell Press",
+        "target": "chest",
+        "equipment": "dumbbell",
+        "instructions": "Lie on an incline bench and press dumbbells upward."
+    }
+]

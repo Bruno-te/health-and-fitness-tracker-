@@ -1,7 +1,7 @@
 import requests # type: ignore
 
 API_URL = "https://api.api-ninjas.com/v1/exercises"
-API_HEADERS = {"X-Api-Key": "YOUR_API_KEY"}
+API_HEADERS = {"X-Api-Key": "NINJAS"}
 
 def get_exercises(muscle_group, equipment=None, difficulty=None, duration=None, body_part=None):
     params = {"muscle": muscle_group}
